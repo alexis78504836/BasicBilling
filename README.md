@@ -1,6 +1,6 @@
 # Para ejecutar el conjunto de pruebas siga los siguientes pasos.
 
-1. Descomprima el contenido del archivo Test.rar
+1. Descomprima el contenido del archivo Alexis.BasicBilling.Test.rar
 2. Abra una ventana de comandos (Windows + R)
 3. Cambie el directorio a la carpeta raíz donde se encuentra el proyecto
 4. Compile el proyecto con el comando dotnet build
